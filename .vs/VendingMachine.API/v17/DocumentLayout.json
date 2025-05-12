@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\VendingMachine\\VendingMachine.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|e:\\projects\\vendingmachine\\vendingmachine.api\\vendingmachine.api\\services\\vendingmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|solutionrelative:vendingmachine.api\\services\\vendingmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|e:\\projects\\vendingmachine\\vendingmachine.api\\vendingmachine.api\\services\\ivendingmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|solutionrelative:vendingmachine.api\\services\\ivendingmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|e:\\projects\\vendingmachine\\vendingmachine.api\\vendingmachine.api\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|solutionrelative:vendingmachine.api\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|e:\\projects\\vendingmachine\\vendingmachine.api\\vendingmachine.api\\models\\vendingmachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|solutionrelative:vendingmachine.api\\models\\vendingmachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|e:\\projects\\vendingmachine\\vendingmachine.api\\vendingmachine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|solutionrelative:vendingmachine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7BF601-DC08-4CB8-8503-3D6B470B5C88}|VendingMachine.Tests\\VendingMachine.Tests.csproj|e:\\projects\\vendingmachine\\vendingmachine.api\\vendingmachine.tests\\controllers\\vendingmachinecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7BF601-DC08-4CB8-8503-3D6B470B5C88}|VendingMachine.Tests\\VendingMachine.Tests.csproj|solutionrelative:vendingmachine.tests\\controllers\\vendingmachinecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7BF601-DC08-4CB8-8503-3D6B470B5C88}|VendingMachine.Tests\\VendingMachine.Tests.csproj|e:\\projects\\vendingmachine\\vendingmachine.api\\vendingmachine.tests\\services\\vendingmachineservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7BF601-DC08-4CB8-8503-3D6B470B5C88}|VendingMachine.Tests\\VendingMachine.Tests.csproj|solutionrelative:vendingmachine.tests\\services\\vendingmachineservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|e:\\projects\\vendingmachine\\vendingmachine.api\\vendingmachine.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|solutionrelative:vendingmachine.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|e:\\projects\\vendingmachine\\vendingmachine.api\\vendingmachine.api\\controllers\\vendingmachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478B7244-8D55-4F15-AEA4-1481C3606A5C}|VendingMachine.API\\VendingMachine.API.csproj|solutionrelative:vendingmachine.api\\controllers\\vendingmachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\appsettings.json",
+              "RelativeDocumentMoniker": "VendingMachine.API\\appsettings.json",
+              "ToolTip": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\appsettings.json",
+              "RelativeToolTip": "VendingMachine.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T20:02:23.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VendingMachineServiceTests.cs",
+              "DocumentMoniker": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.Tests\\Services\\VendingMachineServiceTests.cs",
+              "RelativeDocumentMoniker": "VendingMachine.Tests\\Services\\VendingMachineServiceTests.cs",
+              "ToolTip": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.Tests\\Services\\VendingMachineServiceTests.cs",
+              "RelativeToolTip": "VendingMachine.Tests\\Services\\VendingMachineServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:17:06.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendingMachineService.cs",
+              "DocumentMoniker": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Services\\VendingMachineService.cs",
+              "RelativeDocumentMoniker": "VendingMachine.API\\Services\\VendingMachineService.cs",
+              "ToolTip": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Services\\VendingMachineService.cs",
+              "RelativeToolTip": "VendingMachine.API\\Services\\VendingMachineService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:14:17.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVendingMachineService.cs",
+              "DocumentMoniker": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Services\\IVendingMachineService.cs",
+              "RelativeDocumentMoniker": "VendingMachine.API\\Services\\IVendingMachineService.cs",
+              "ToolTip": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Services\\IVendingMachineService.cs",
+              "RelativeToolTip": "VendingMachine.API\\Services\\IVendingMachineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:12:10.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendingMachineState.cs",
+              "DocumentMoniker": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Models\\VendingMachineState.cs",
+              "RelativeDocumentMoniker": "VendingMachine.API\\Models\\VendingMachineState.cs",
+              "ToolTip": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Models\\VendingMachineState.cs",
+              "RelativeToolTip": "VendingMachine.API\\Models\\VendingMachineState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:09:49.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "VendingMachine.API\\Models\\Enums.cs",
+              "ToolTip": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Models\\Enums.cs",
+              "RelativeToolTip": "VendingMachine.API\\Models\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:07:07.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VendingMachineControllerTests.cs",
+              "DocumentMoniker": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.Tests\\Controllers\\VendingMachineControllerTests.cs",
+              "RelativeDocumentMoniker": "VendingMachine.Tests\\Controllers\\VendingMachineControllerTests.cs",
+              "ToolTip": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.Tests\\Controllers\\VendingMachineControllerTests.cs",
+              "RelativeToolTip": "VendingMachine.Tests\\Controllers\\VendingMachineControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:27:42.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Program.cs",
+              "RelativeDocumentMoniker": "VendingMachine.API\\Program.cs",
+              "ToolTip": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Program.cs",
+              "RelativeToolTip": "VendingMachine.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:12:18.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VendingMachineController.cs",
+              "DocumentMoniker": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Controllers\\VendingMachineController.cs",
+              "RelativeDocumentMoniker": "VendingMachine.API\\Controllers\\VendingMachineController.cs",
+              "ToolTip": "E:\\Projects\\VendingMachine\\VendingMachine.API\\VendingMachine.API\\Controllers\\VendingMachineController.cs",
+              "RelativeToolTip": "VendingMachine.API\\Controllers\\VendingMachineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:19:14.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
